@@ -1,0 +1,1 @@
+# Inverted-and-positional-index-to-facilitate-Boolean-Model-of-IR
